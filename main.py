@@ -15,7 +15,7 @@ def get_time():
 
 
 if __name__ == "__main__":
-    os.close(sys.stderr.fileno())
+    # os.close(sys.stderr.fileno())
     welcome_text = "你好，我叫小没用。"
     wav2text.is_keyword("music/init.wav")
     text2wav = Text2Wav()
