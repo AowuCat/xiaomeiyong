@@ -37,9 +37,8 @@
 ### 语音合成
 使用[zhtts](https://github.com/Jackiexiao/zhtts)作为离线语音合成工具。<br>
 <br>*给他们点个☆星星☆吧~*<br>
-### 录音和播放声音
+### 录音
 使用PyAudio库进行录音。<br>
-播放声音方面，Windows下使用winsound，Linux下使用playsound库。<br>
 ***
 
 ## 配置
